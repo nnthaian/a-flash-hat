@@ -1,0 +1,1 @@
+python flash_card_on_cmd.py
