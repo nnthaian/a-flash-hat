@@ -75,7 +75,7 @@ rules = pygame.image.load('image/rules.png')
 announcement = pygame.image.load('image/announcement.png')
 
 #background music
-mixer.music.load('other/background_music.wav')
+mixer.music.load('other/background_music.mp3')
 ##continue playing until we close the program
 mixer.music.play(-1)
 
