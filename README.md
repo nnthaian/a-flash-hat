@@ -1,1 +1,12 @@
-# a-flash-hat
+# A Flash Hat: Learning Vocabulary
+A Flash Hat is a tool for learning vocabulary, mimicking a simplified version of popular flashcard apps (such as Anki and Quizlet). However, our flashcard app features a special point calculation system in the practice section to help users learn new words.
+
+## Functions
+
+
+## Requirement & Run
+We provided 2 versions of A Flash Hat with different running ways and requirements:
+* With the .bat file (Windows 10/11):
+    * 
+* With the GUI version (Windows/MacOS):
+    * 
